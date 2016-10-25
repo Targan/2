@@ -1,0 +1,6 @@
+c:\users\sheigets\documents\visual studio 2013\Projects\Palindromic\Palindromic\bin\Debug\Palindromic.exe.config
+c:\users\sheigets\documents\visual studio 2013\Projects\Palindromic\Palindromic\bin\Debug\Palindromic.exe
+c:\users\sheigets\documents\visual studio 2013\Projects\Palindromic\Palindromic\bin\Debug\Palindromic.pdb
+c:\users\sheigets\documents\visual studio 2013\Projects\Palindromic\Palindromic\obj\Debug\Palindromic.csprojResolveAssemblyReference.cache
+c:\users\sheigets\documents\visual studio 2013\Projects\Palindromic\Palindromic\obj\Debug\Palindromic.exe
+c:\users\sheigets\documents\visual studio 2013\Projects\Palindromic\Palindromic\obj\Debug\Palindromic.pdb
